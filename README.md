@@ -6,7 +6,7 @@ A powerful, modular Python CLI tool that analyzes password strength in real-time
 
 ## 📋 Table of Contents
 
-- [Overview](#overview)
+- [Overview](#https://github.com/arpitdevgoswami/Password_Strength_Checker/blob/main/README.md#-overview)
 - [Features](#features)
 - [Project Structure](#project-structure)
 - [How It Works](#how-it-works)
