@@ -302,6 +302,6 @@ OK
 
 ## 👨‍💻 Author
 
-Built with ❤️ by ****
+Built with ❤️ by **arpitdevgoswami**
 
 > *"A strong password is your first line of defense."*
