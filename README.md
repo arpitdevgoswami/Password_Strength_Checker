@@ -124,7 +124,7 @@ Each check contributes points to the final score:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Password_Strength_Checker.git
+git clone https://github.com/arpitdevgoswami/Password_Strength_Checker.git
 cd Password_Strength_Checker
 ```
 
